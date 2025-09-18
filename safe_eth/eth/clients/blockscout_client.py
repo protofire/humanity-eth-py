@@ -77,8 +77,8 @@ class BlockscoutClient:
         EthereumNetwork.LISK_SEPOLIA_TESTNET: "https://sepolia-blockscout.lisk.com/api/v2/",
         EthereumNetwork.LORENZO: "https://scan.lorenzo-protocol.xyz/api/v2/",
         EthereumNetwork.MANTLE: "https://explorer.mantle.xyz/api/v2/",
-        EthereumNetwork.HMNTY: "https://humanity.explorer.alchemy.com/api/v2/"
-        EthereumNetwork.HMNTYTEST: "hhttps://humanity-testnet.explorer.alchemy.com/api/v2/"
+        EthereumNetwork.HMNTY: "https://humanity.explorer.alchemy.com/api/v2/",
+        EthereumNetwork.HMNTYTEST: "hhttps://humanity-testnet.explorer.alchemy.com/api/v2/",
         EthereumNetwork.MANTLE_SEPOLIA_TESTNET: "https://explorer.sepolia.mantle.xyz/api/v2/",
         EthereumNetwork.MANTLE_TESTNET: "https://explorer.testnet.mantle.xyz/api/v2/",
         EthereumNetwork.MANTA_PACIFIC_MAINNET: "https://pacific-explorer.manta.network/api/v2/",
